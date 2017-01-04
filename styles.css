@@ -1,8 +1,9 @@
-p {
+pre {
 	display: block;
 	width: 800px;
-	margin: 0 auto;
-	font-family: "Myriad Pro";
+	font-size: 10px;
+	margin: 100px auto;
+	font-family: "Monaco"	;
 	color: white;
 }
 
