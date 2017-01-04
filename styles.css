@@ -1,0 +1,11 @@
+p {
+	display: block;
+	width: 800px;
+	margin: 0 auto;
+	font-family: "Myriad Pro";
+	color: white;
+}
+
+body {
+	background: url("restaurant.png");
+}
